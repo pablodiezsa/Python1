@@ -11,3 +11,9 @@ My second first steps in python
 * Pablo M4 - 06 - Bucles: Loops in python (For and While).
 * Pablo M4 - 07 - Numpy 1D: First steps with the lib Numpy.
 * Pablo M4 - 10 - Pandas: First steps with the lib Pandas.
+
+## 07-06-2023
+* Pablo SpaceX - 1 - Data Collection Api: How to request data from an API and transform it.
+* Pablo SpaceX - 4 - EDA with Data Visualization: Exploratory Data Analysis from Spacex Dataset and how to do plots easily.
+* Pablo Prophet - Predecir el valor de Dogecoin: A little model created to predict DogeCoin value.
+* Dataset_part_2: Data from Spacex.
