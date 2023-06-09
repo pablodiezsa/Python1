@@ -17,3 +17,8 @@ My second first steps in python
 * Pablo SpaceX - 4 - EDA with Data Visualization: Exploratory Data Analysis from Spacex Dataset and how to do plots easily.
 * Pablo Prophet - Predecir el valor de Dogecoin: A little model created to predict DogeCoin value.
 * Dataset_part_2: Data from Spacex.
+
+## 08-06-2023
+* Pablo M5 - 09 - Folium: How to map something with Folium.
+* Pablo SpaceX - 3 -EDA Using SQL: Asking in SQL inside of Python.
+* Pablo M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium: More interactive mapping with Folium.
